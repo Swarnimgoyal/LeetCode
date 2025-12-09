@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Swarnimgoyal/LeetCode/tree/master/3583-count-special-triplets) |
 ## Hash Table
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/Swarnimgoyal/LeetCode/tree/master/3583-count-special-triplets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
