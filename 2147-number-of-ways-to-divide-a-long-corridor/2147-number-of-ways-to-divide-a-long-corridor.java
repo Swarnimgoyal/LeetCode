@@ -3,39 +3,21 @@ class Solution {
 
     public int numberOfWays(String corridor) {
         int n = corridor.length();
-        long ans = 1;
-
-        int seats = 0;
-        int plantsBetween = 0;
-        boolean firstSection = true;
-
-        for (int i = 0; i < n; i++) {
-            char ch = corridor.charAt(i);
-
-            if (ch == 'S') {
+        long ways=1;
+        int seats=0;
+        int last=-1;
+        for(int i=0;i<n;i++){
+            if(corridor.charAt(i)=='S'){
                 seats++;
-
-                if (seats == 2) {
-                    if (!firstSection) {
-                        ans = (ans * (plantsBetween + 1)) % MOD;
-                    }
-                    firstSection = false;
-                    seats = 0;
-                    plantsBetween = 0;
+                if(seats>=3&&seats%2==1){
+                        ways=(ways*(i-last))%MOD;
                 }
-            } else { // 'P'
-                if (seats == 0 && !firstSection) {
-                    plantsBetween++;
-                }
+                last=i;
             }
         }
+        if (seats == 0 || seats % 2 == 1) return 0;
 
-        // 🔴 CRITICAL CHECK: incomplete section
-        if (seats != 0) return 0;
+        return (int)ways;
 
-        // no valid section formed
-        if (firstSection) return 0;
-
-        return (int) ans;
     }
 }
