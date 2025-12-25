@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Swarnimgoyal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Swarnimgoyal/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
