@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1925-count-square-sum-triples](https://github.com/Swarnimgoyal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
