@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Tree
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Swarnimgoyal/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Swarnimgoyal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
