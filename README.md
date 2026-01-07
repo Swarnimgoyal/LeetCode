@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
+| [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Union Find
@@ -138,6 +141,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
