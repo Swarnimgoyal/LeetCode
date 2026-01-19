@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Swarnimgoyal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Swarnimgoyal/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Swarnimgoyal/LeetCode/tree/master/1390-four-divisors) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Swarnimgoyal/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Swarnimgoyal/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Swarnimgoyal/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Geometry
 |  |
 | ------- |
