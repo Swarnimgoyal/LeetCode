@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Tree
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Swarnimgoyal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
