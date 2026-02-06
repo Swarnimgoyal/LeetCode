@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Swarnimgoyal/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Swarnimgoyal/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Swarnimgoyal/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
