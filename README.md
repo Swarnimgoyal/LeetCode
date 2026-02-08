@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0113-path-sum-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String
