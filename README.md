@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Swarnimgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Swarnimgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Swarnimgoyal/LeetCode/tree/master/0127-word-ladder) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Swarnimgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
