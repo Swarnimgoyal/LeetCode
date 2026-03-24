@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Swarnimgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Swarnimgoyal/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
 | [0216-combination-sum-iii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Swarnimgoyal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
