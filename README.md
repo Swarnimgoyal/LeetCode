@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Swarnimgoyal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Swarnimgoyal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Swarnimgoyal/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Swarnimgoyal/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Swarnimgoyal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swarnimgoyal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
