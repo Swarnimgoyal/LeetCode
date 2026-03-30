@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Swarnimgoyal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Swarnimgoyal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Swarnimgoyal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swarnimgoyal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
