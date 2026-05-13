@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Swarnimgoyal/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Swarnimgoyal/LeetCode/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Swarnimgoyal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Swarnimgoyal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Swarnimgoyal/LeetCode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Swarnimgoyal/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Swarnimgoyal/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
