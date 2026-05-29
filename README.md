@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2906-construct-product-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Swarnimgoyal/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Swarnimgoyal/LeetCode/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/Swarnimgoyal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
