@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Swarnimgoyal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1668-maximum-repeating-substring](https://github.com/Swarnimgoyal/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Swarnimgoyal/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/0542-01-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Swarnimgoyal/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Union Find
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Swarnimgoyal/LeetCode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
