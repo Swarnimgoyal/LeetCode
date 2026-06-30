@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Swarnimgoyal/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Swarnimgoyal/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Swarnimgoyal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1668-maximum-repeating-substring](https://github.com/Swarnimgoyal/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Swarnimgoyal/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Swarnimgoyal/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search Tree
 |  |
