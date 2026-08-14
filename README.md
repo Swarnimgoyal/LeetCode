@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Swarnimgoyal/LeetCode/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/Swarnimgoyal/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Swarnimgoyal/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Swarnimgoyal/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Swarnimgoyal/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Swarnimgoyal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Swarnimgoyal/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
