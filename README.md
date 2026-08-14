@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Swarnimgoyal/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Swarnimgoyal/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Swarnimgoyal/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Swarnimgoyal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Swarnimgoyal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Swarnimgoyal/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Swarnimgoyal/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Swarnimgoyal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Swarnimgoyal/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Swarnimgoyal/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
