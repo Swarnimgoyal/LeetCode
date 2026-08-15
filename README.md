@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Swarnimgoyal/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Swarnimgoyal/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Swarnimgoyal/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Swarnimgoyal/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
