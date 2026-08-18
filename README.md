@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Swarnimgoyal/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Swarnimgoyal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Swarnimgoyal/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swarnimgoyal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Swarnimgoyal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/Swarnimgoyal/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Swarnimgoyal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Swarnimgoyal/LeetCode/tree/master/3583-count-special-triplets) |
