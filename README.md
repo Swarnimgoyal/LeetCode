@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Swarnimgoyal/LeetCode/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Swarnimgoyal/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Swarnimgoyal/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 | [2906-construct-product-matrix](https://github.com/Swarnimgoyal/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Swarnimgoyal/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Swarnimgoyal/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swarnimgoyal/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swarnimgoyal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Swarnimgoyal/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Swarnimgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Swarnimgoyal/LeetCode/tree/master/0901-online-stock-span) |
+| [1993-operations-on-tree](https://github.com/Swarnimgoyal/LeetCode/tree/master/1993-operations-on-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
