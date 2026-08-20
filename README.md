@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Swarnimgoyal/LeetCode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Swarnimgoyal/LeetCode/tree/master/0455-assign-cookies) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Swarnimgoyal/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Swarnimgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Swarnimgoyal/LeetCode/tree/master/0088-merge-sorted-array) |
